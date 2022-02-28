@@ -810,7 +810,17 @@ color: orange;
     color: #364577 !important;
     border-color: #364577 !important;
 }
-
+.image-logo
+{
+    width: 20%;
+    height: 20%;
+    margin: auto;
+}
+.image-logo2
+{
+    width: 100%;
+    height: 100%;
+}
 .bg-dots-bg {
     background-image: url("img/dots-bg.png");
 }
@@ -820,11 +830,11 @@ color: orange;
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la-chouette-agence-banniere.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
