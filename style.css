@@ -40,7 +40,7 @@ a
 }
 .footer_list a
 {
-    color: black;
+    color:whitesmoke;
 }
 .footer_list:hover
 {
@@ -52,7 +52,7 @@ a
 }
 .lien_invisible
 {
-    visibility: hidden;
+    hidden;
 }
 .bloc {
     width: 100%;
