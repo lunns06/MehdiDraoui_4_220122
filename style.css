@@ -32,7 +32,7 @@ a
 .footer_list
 {
     width: 100%;
-    list-style: square;
+    list-style: none;
     font-size: 1.6em;
     display: flex;
     justify-content: space-evenly;
@@ -42,14 +42,12 @@ a
 {
     color:whitesmoke;
 }
-.footer_list:hover
+.footer_link1:hover a,.footer_link2:hover a ,.footer_link3:hover a
 {
     color:rgba(255,255,255,.6) ;
+    
 }
-.footer_list:hover 
-{
-    color:rgba(255,255,255,.6);
-}
+
 .lien_invisible
 {
    visibility: hidden;
