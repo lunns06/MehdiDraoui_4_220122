@@ -52,7 +52,7 @@ a
 }
 .lien_invisible
 {
-    hidden;
+   visibility: hidden;
 }
 .bloc {
     width: 100%;
