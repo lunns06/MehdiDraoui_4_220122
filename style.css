@@ -1141,3 +1141,10 @@ color: orange;
         text-align: center;
     }
 }
+
+.contact_detail
+{
+    display: flex;
+    flex-direction: column;
+    font-size: 0.7em;
+}
