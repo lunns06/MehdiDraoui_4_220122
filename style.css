@@ -50,6 +50,10 @@ a
 {
     color:rgba(255,255,255,.6);
 }
+.lien_invisible
+{
+    visibility: hidden;
+}
 .bloc {
     width: 100%;
     clear: both;
