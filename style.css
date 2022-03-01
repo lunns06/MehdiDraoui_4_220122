@@ -1106,11 +1106,29 @@ color: orange;
         height: 320px;
     }
 }
-
+.social
+{
+    display: flex;
+    justify-content: space-around;
+}
 @media (max-width: 400px) {
+    .social
+    {
+        flex-direction: column;
+        width: 20%;
+        margin: auto auto 1em auto;
+    }
     .bloc {
         padding-left: 0;
         padding-right: 0;
+    }
+    .footer_list
+    {
+        flex-direction: column;
+    }
+    .footer_link1,.footer_link2,.footer_link3
+    {
+        margin: auto;
     }
 }
 
